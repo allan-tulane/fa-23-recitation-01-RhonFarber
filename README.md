@@ -2,7 +2,7 @@
 
 # CMPS 2200 Recitation 01
 
-**Name (Team Member 1):\*\***\*\*\*\***\*\***\_\***\*\*\*\*\*\*\***  
+**Name (Team Member 1):Rhon Farber***  
 **Name (Team Member 2):\*\***\*\*\*\***\*\***\_\***\*\*\*\*\*\*\***
 
 In this recitation, we will investigate asymptotic complexity. Additionally, we will get familiar with the various technologies we'll use for collaborative coding.
